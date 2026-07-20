@@ -6,3 +6,5 @@ Research Paper Collection
 2. - [KNighter: Transforming Static Analysis with LLM-Synthesized Checkers](Transforming-Static-Analysis-with-LLM-Synthesized-Checkers)   
 
 3. - [FuzzingBrain V2: A Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](A-Multi-Agent-LLM-System-for-Automated-Vulnerability)
+
+4. - [When Compression Becomes an Attack Surface: Black-Box Attacks on Prompt-Compressed LLM Agents](Black-Box-Attacks-on-Prompt-Compressed-LLM-Agents)
