@@ -8,3 +8,4 @@ Research Paper Collection
 5. [Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning](An-Empirical-Study-of-Program-Representations-for-LLM-Vulnerability-Reasoning)
 6. [HySELoc: a hybrid semantic-enhanced approach for interpretable vulnerability localization](a-hybrid-semantic-enhanced-approach-for-interpretable-vulnerability-localization)
 7. [KNighter: Transforming Static Analysis with LLM-Synthesized Checkers](LLM-Powered-Vulnerability-Discovery-Through-Code-Decomposition-Adversarial-Verification-and-Dynamic-Testing)
+8. [Verify Before You Fix: Agentic Execution Grounding for Trustworthy Cross-Language Code Analysis](Agentic-Execution-Grounding-for-Trustworthy-Cross-Language-Code-Analysis)
